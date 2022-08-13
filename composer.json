@@ -1,5 +1,10 @@
 {
     "name": "salad/salad",
+    "autoload": {
+        "psr-4": {
+            "Salad\\": "src/"
+        }
+    },
     "require": {
     }
 }

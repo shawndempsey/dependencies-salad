@@ -10,7 +10,7 @@ class Salad
 
     public function __construct()
     {
-        echo "Salad v1.1.0\n";
+        echo "Salad v1.1.4\n";
         $this->lettuce = new Lettuce();
     }
 }

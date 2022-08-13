@@ -1,0 +1,45 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "a2eaebfc6f01d4945db1feb69089deeb",
+    "packages": [
+        {
+            "name": "lettuce/lettuce",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:shawndempsey/dependencies-lettuce.git",
+                "reference": "697a5947d4a24f12695c9e59ca9e9e930e139166"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/shawndempsey/dependencies-lettuce/zipball/697a5947d4a24f12695c9e59ca9e9e930e139166",
+                "reference": "697a5947d4a24f12695c9e59ca9e9e930e139166",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Lettuce\\": "src/"
+                }
+            },
+            "support": {
+                "source": "https://github.com/shawndempsey/dependencies-lettuce/tree/v1.0.1",
+                "issues": "https://github.com/shawndempsey/dependencies-lettuce/issues"
+            },
+            "time": "2022-08-13T15:58:05+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
